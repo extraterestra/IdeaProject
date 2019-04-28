@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args) {
 
         List l = Lists.newArrayList();
-//
+//added some comment
     }
 }
